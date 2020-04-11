@@ -1,2 +1,2 @@
 # C_hakerank
-some solutions for c 
+some solutions for c problems
